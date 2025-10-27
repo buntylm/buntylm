@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Bunty Madan  
+### 🇸🇬 Lead iOS Engineer • Developer Experience @ Grab
+At Grab (Singapore) with 10+ years of experience building high-performance mobile infrastructure, CI pipelines, and observability SDKs for large-scale iOS apps serving millions across Southeast Asia.
 
-<!--
-**buntylm/buntylm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ✍️ Publications & Talks
+- 📘 *How to Design iOS Secure Apps* – [Grab Engineering Blog](https://engineering.grab.com)  
+- 🎙️ Speaker & mentor at iOS Conf SG, sharing insights on CI optimization and observability in mobile apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌍 Connect with Me
+📍 Singapore  
+📧 [mail.bunty.m@gmail.com](mailto:mail.bunty.m@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/buntylm)  
+💻 [GitHub](https://github.com/buntymadan)  
+🧠 [Stack Overflow (Top 5%)](https://stackoverflow.com/users/buntylm)
+
+![Bunty's GitHub stats](https://github-readme-stats.vercel.app/api?username=buntymadan&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com?user=buntymadan&theme=transparent)](https://git.io/streak-stats)
