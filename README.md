@@ -13,7 +13,6 @@
 📍 Singapore  
 📧 [mail.bunty.m@gmail.com](mailto:mail.bunty.m@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/buntylm)  
-💻 [GitHub](https://github.com/buntymadan)  
 🧠 [Stack Overflow (Top 5%)](https://stackoverflow.com/users/buntylm)
 
 ![Bunty's GitHub stats](https://github-readme-stats.vercel.app/api?username=buntymadan&show_icons=true&theme=transparent)
