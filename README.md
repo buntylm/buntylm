@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Bunty Madan  
 ### 🇸🇬 Lead iOS Engineer • Developer Experience @ Grab
-At Grab (Singapore) with 10+ years of experience building high-performance mobile infrastructure, CI pipelines, and observability SDKs for large-scale iOS apps serving millions across Southeast Asia.
 
 ---
 
